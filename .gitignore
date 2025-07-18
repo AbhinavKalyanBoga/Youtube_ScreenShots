@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.zip
+*.mp4
+*.jpg
+*.png
+video.mp4
+scene_output/
+deduplicated_frames.zip
+last_url.txt
+.venv/
+.env
